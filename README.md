@@ -11,12 +11,12 @@
 
 ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
 <br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643)
-  <div align="center"  >
+  <div align="center">
 <h4 align="center">Plugins</h1>
 
 ---
 
-- Create your own plugins and join group to add that plugin in repo.
+- Create your own plugins and join group to add that plugin in repo. Do that right now😁
 
 
 
